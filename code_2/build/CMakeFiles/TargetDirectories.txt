@@ -1,0 +1,3 @@
+/home/ishan/Documents/Computer Graphics/Assignments/project/codes/code_2/build/CMakeFiles/project.dir
+/home/ishan/Documents/Computer Graphics/Assignments/project/codes/code_2/build/CMakeFiles/edit_cache.dir
+/home/ishan/Documents/Computer Graphics/Assignments/project/codes/code_2/build/CMakeFiles/rebuild_cache.dir
